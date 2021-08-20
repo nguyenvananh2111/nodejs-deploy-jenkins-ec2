@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-deploy-jenkins-ec2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvananh2111/nodejs-deploy-jenkins-ec2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvananh2111/nodejs-deploy-jenkins-ec2/issues"
+  },
+  "homepage": "https://github.com/nguyenvananh2111/nodejs-deploy-jenkins-ec2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.0",
+    "supertest": "^6.1.6"
+  }
+}
