@@ -1,6 +1,6 @@
 module.exports = { 
     apps: [{
-      name    : "nodejs-deploy-jenkins-ec2",
+      name    : "node-app",
       script  : "npm",
       args    : "start"
     }]
